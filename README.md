@@ -8,6 +8,7 @@ Each folder includes a separate project with its own code, dataset, and short ex
 ## Projects Included
 
 1. **Linear Regression - Student Performance Prediction**
+2. **Decision Tree - Telco Customer Churn Pridiction**
 
 (More project will be added soon!)
 
