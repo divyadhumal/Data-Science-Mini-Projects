@@ -51,6 +51,8 @@ The goal of this project is to build a model that can automatically classify SMS
 - Precision  
 - Recall  
 - F1-Score  
+------------
+<img width="1052" height="708" alt="image" src="https://github.com/user-attachments/assets/89a259ce-37e1-4095-ba5e-2ab377076def" />
 
 ---
 
